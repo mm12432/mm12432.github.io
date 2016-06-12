@@ -1,6 +1,6 @@
 # Site settings
-title: Coding Bear
-description: Coding Bear
+title: 会敲代码的熊
+description: 会敲代码的熊
 favicon: /assets/img/avatar.JPG
 baseurl: https://mm12432.github.io/
 url: https://mm12432.github.io/
@@ -14,9 +14,9 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Xiaoyong Mao
-  title: DotNet Developer
-  address: Qin Huangdao, China
+  name: 毛晓勇
+  title: coder
+  address: 秦皇岛，中国
   email: mm12432@163.com
   link: https://mm12432.github.io/
   gavatar: /assets/img/avatar.JPG
@@ -46,20 +46,20 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: Northeastern University
-      location: Harbin, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
+      organization: 哈尔滨工程大学
+      location: 哈尔滨，中国
+      degree: 工学学士
+      major: 船舶与海洋工程
+      started: 2004
+      duration: (2004 - 2008)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
-      proficiency: Native
+      name: 汉语
+      proficiency: 母语
     - language2:
-      name: English
-      proficiency: Normal
+      name: 英语
+      proficiency: 一般
   programmingSkills:
     - skill1:
       name: HTML
