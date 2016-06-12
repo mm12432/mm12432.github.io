@@ -1,10 +1,10 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
+title: Adam Mao's Blog 
+description: Adam Mao's Blog
 favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
-rss_url: /pages/atom.xml
+baseurl: https://mm12432.github.io/
+url: https://mm12432.github.io/
+#rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
 # Build settings
@@ -14,16 +14,16 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Adam Mao
+  title: DotNet Developer
+  address: Qin Huangdao, China
+  email: mm12432@163.com
+  link: https://mm12432.github.io/
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
+  github: mm12432
+  linkedin: mm12432
+  twitter: mm12432
+  gavatar: /assets/img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
@@ -63,10 +63,7 @@ author:
       proficiency: Native
     - language2:
       name: English
-      proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
+      proficiency: Normal
   programmingSkills:
     - skill1:
       name: HTML
