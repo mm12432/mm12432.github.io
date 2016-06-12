@@ -1,6 +1,6 @@
 # Site settings
-title: Adam Mao's Blog 
-description: Adam Mao's Blog
+title: Coding Bear
+description: Coding Bear
 favicon: /assets/img/avatar.JPG
 baseurl: https://mm12432.github.io/
 url: https://mm12432.github.io/
@@ -14,17 +14,13 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Adam Mao
+  name: Xiaoyong Mao
   title: DotNet Developer
   address: Qin Huangdao, China
   email: mm12432@163.com
   link: https://mm12432.github.io/
-  weibo:
-  github: mm12432
-  linkedin: mm12432
-  twitter: mm12432
   gavatar: /assets/img/avatar.JPG
-  stackoverflow:
+#  stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
@@ -51,7 +47,7 @@ author:
   educationHistory:
     - education1:
       organization: Northeastern University
-      location: Shenyang, China
+      location: Harbin, China
       degree: Bachelor
       major: Software Engineering
       started: 2005
