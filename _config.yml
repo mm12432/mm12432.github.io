@@ -34,16 +34,16 @@ author:
       company: Agfa HealthCare
       location: Shanghai, China
       title: Java Developer
-      started: 2012
+      started: 2010
       duration: (2012 - 2014)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: 山海关船舶重工有限责任公司-设计所
+      location: 秦皇岛，中国
+      title: 助理设计师
+      started: 2008
+      duration: (2008 - 2011)
+      description: 一段自我重塑的经历，参加过公司3艘散货船的生产设计工作；参与过2次船舶的倾斜实验，并撰写实验报告；1年后因不喜爱船舶设计工作转入计算机室，从事过1年的系统维护和网络维护工作，然后自学Java和C#语言，写过一些常用的小程序帮助其他同事解决简单的问题。
   educationHistory:
     - education1:
       organization: 哈尔滨工程大学
@@ -52,7 +52,7 @@ author:
       major: 船舶与海洋工程
       started: 2004
       duration: (2004 - 2008)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: 本该选择计算机科学与技术专业的我，鬼使神差的选择了船舶与海洋工程。心之所向，身之所往，经过几年的努力，我又回到了我向往的那个起点，开始一段♥的征程。
   languages:
     - language1:
       name: 汉语
@@ -62,17 +62,17 @@ author:
       proficiency: 一般
   programmingSkills:
     - skill1:
-      name: HTML
+      name: .net Framework
       percentage: 100%
     - skill2:
-      name: Bootstrap
+      name: asp.net
       percentage: 90%
     - skill3:
-      name: JavaScript
+      name: hadoop
       percentage: 70%
     - skill4:
-      name: AngularJS
-      percentage: 70%
+      name: data mining
+      percentage: 30%
     - skill5:
-      name: Java/Java EE
-      percentage: 90%
+      name: spark
+      percentage: 50%
