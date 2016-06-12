@@ -516,3 +516,7 @@ hr {
 #navbar{
     margin-top: 50px;
 }
+
+#navbar li:hover{
+    background-color: cornflowerblue;
+}
