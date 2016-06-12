@@ -76,3 +76,6 @@ author:
     - skill5:
       name: spark
       percentage: 50%
+  location:
+      east: 119.77147
+      north: 39.980127
