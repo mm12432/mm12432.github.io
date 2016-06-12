@@ -517,6 +517,6 @@ hr {
     margin-top: 50px;
 }
 
-#navbar li:hover{
+#navbar li a:hover{
     background-color: cornflowerblue;
 }
