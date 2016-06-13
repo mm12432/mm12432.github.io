@@ -1,8 +1,10 @@
 ---
+layout: post
 title: 开始篇
 time: 2016年06月13日 星期一
 location: 秦皇岛，山海关
 pulished: true
+excerpt_separator: "```"
 ---
 
 我的第一篇 github 博客, 本博客使用 [jekyll](http://jekyll.bootcss.com/) + [bootstrap](http://v3.bootcss.com) 搭建!
