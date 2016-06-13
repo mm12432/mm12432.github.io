@@ -2,24 +2,27 @@
 layout: page
 ---
 
-{% for post in site.posts %}
-<article class="preview">
-    <header>
-        <h2 class="post-title">
-            <a href="{{ post.url }}">  {{ post.title }} </a>
-        </h2>
-        <p class="post-time"> {{ post.time }}</p>
-    </header>
-    <section class="post-section">
-        <p>
-            {{ post.excerpt }}
-        </p>
-        <p class="readmore">
-            <a href="{{ post.url }}">
-                阅读全文
-                <span class="glyphicon glyphicon-circle-arrow-right"></span>
-            </a>
-        </p>
-    </section>
-</article>
-{% endfor %}
+<h3 class="title with-icon"><span class="glyphicon glyphicon-pencil cat-title"></span> My Blog</h3>
+<ul class="timeline">
+    {% for post in site.posts %}
+        <li class="timeline-inverted">
+            <div class="timeline-badge info">{{ post.date }}</div>
+            <div class="timeline-panel grid-block">
+                <div class="timeline-heading">
+                        <h4 class="timeline-title">{{ post.title }} </h4>
+                    <p>
+                        <small class="text-muted"><i class="fa fa-calendar"></i>{{ work.time }}</small>
+                    </p>
+                    <p>
+                        <small class="text-muted">
+                           <a href="{{ post.url }}">阅读全文<span class="glyphicon glyphicon-circle-arrow-right"></span></a>
+                        </small>
+                    </p>
+                </div>
+                <div class="timeline-body">
+                        <p> {{ post.excerpt }}</p>
+                </div>
+            </div>
+        </li>
+    {% endfor %}
+</ul>
