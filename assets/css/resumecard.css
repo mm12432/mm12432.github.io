@@ -526,3 +526,14 @@ hr {
     text-decoration : underline;
     color: #888;
 }
+
+.list-menu li {
+    padding: 10px;
+    margin-bottom: 6px;
+    border-radius: 5px;
+    background: rgba(100,100,100,0.2);
+}
+
+.list-menu li:nth-child(even) {
+    background: rgba(100,100,100,0.8);
+}
