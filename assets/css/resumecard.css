@@ -516,8 +516,10 @@ hr {
 #navbar{
     margin-top: 50px;
     font-size: 12pt;
-    max-width: 320px;
+    max-width: 310px;
     text-align: center;
+    border-bottom: 1px solid rgba(100,100,100,0.5);
+    border-top: 1px solid rgba(100,100,100,0.5);
 }
 #navbar li a{
     color: #3498db;
