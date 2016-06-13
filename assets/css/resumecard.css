@@ -563,9 +563,9 @@ hr {
 }
 
 .blog .post-body p{
-    margin: 15px 10px;
+    margin: 12px 10px;
 }
 
 .page-content{
-    min-height: 800px;
+    min-height: 500px;
 }
