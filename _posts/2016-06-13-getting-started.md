@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 开始篇
-date: 2016-06-13
+year: 2016
 time: 2016年06月13日 星期一
 location: 秦皇岛，山海关
 pulished: true

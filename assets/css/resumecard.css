@@ -541,3 +541,16 @@ hr {
 .list-menu span {
     padding-right: 10px;
 }
+
+.blog a{
+    color: #337ab7;
+    text-decoration: none;
+}
+.blog a:hover{
+    text-decoration : underline;
+    color: #888;
+}
+
+.blog .timeline-body{
+    font-size: 15px;
+}
