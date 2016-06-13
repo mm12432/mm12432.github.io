@@ -516,12 +516,10 @@ hr {
 #navbar{
     margin-top: 50px;
     font-size: 12pt;
-    border-bottom: 1px solid rgba(100,100,100,0.2);
-    border-top: 1px solid rgba(100,100,100,0.2);
-    max-width: 350px;
+    max-width: 320px;
     text-align: center;
 }
-#navbar li{
+#navbar li a{
     color: #3498db;
 }
 #navbar .link:hover{
