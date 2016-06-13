@@ -537,3 +537,7 @@ hr {
 .list-menu li:nth-child(even) {
     background: rgba(100,100,100,0.8);
 }
+
+.list-menu span {
+    padding-right: 10px;
+}
